@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Om Shrestha.
 
-<!--
-**officialOmStha/officialOmStha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer building practical and scalable web applications.  
+I focus on clean UI, structured backend systems, and writing maintainable code.
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
+React • TypeScript • Vite • Tailwind CSS  
+Django • Django REST Framework • JWT • PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+- Full-stack web applications  
+- REST API development  
+- Authentication systems  
+- Data visualization with charts  
+
+## 🌱 Currently Improving
+System Design • Backend Architecture • Code Structure  
+
+## 🎯 Fun Facts
+- I fix bugs step by step instead of guessing  
+- I prefer simple solutions over complex ones  
+- I test features before calling them “done”  
+- I enjoy refactoring old code  
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/om-shrestha-b170a3334/  
+Email: omstha71@gmail.com
