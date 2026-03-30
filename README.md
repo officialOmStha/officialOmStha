@@ -14,14 +14,10 @@ Django • Django REST Framework • JWT • PostgreSQL
 - Data visualization with charts  
 
 ## 🌱 Currently Improving
-System Design • Backend Architecture • Code Structure  
+System Design • Backend Architecture • Code Structure • TypeScript
 
-## 🎯 Fun Facts
-- I fix bugs step by step instead of guessing  
-- I prefer simple solutions over complex ones  
-- I test features before calling them “done”  
-- I enjoy refactoring old code  
 
 ## 📫 Contact
+Portfolio: https://www.omnshrestha.com.np/
 LinkedIn: https://www.linkedin.com/in/om-shrestha-b170a3334/  
 Email: omstha71@gmail.com
